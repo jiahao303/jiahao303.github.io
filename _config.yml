@@ -112,9 +112,6 @@ author:
   links:
     - label: "(510) 508-3753"
       icon: "fab fa-fw fa-phone"
-    - label: "jiahao303@gmail.com"
-      icon: "fab fa-fw fa-envelope"
-      url: "mailto:jiahao303@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/jiahao303"
