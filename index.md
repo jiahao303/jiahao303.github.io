@@ -7,7 +7,9 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home-page-feature.jpg
 excerpt: >
-  I'm a 
+  I'm a product manager and UCLA alumni hailing from the Bay Area town of Alameda, CA. Feel free to check out my personal projects, work experience, or learn more about me!
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
