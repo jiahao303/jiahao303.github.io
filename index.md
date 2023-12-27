@@ -6,6 +6,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home-page-feature.jpg
+  overlay_filter: 0.5
 excerpt: >
   I'm a product manager and UCLA alumni hailing from the Bay Area town of Alameda, CA. Feel free to check out my personal projects, work experience, or learn more about me!
 intro: 
