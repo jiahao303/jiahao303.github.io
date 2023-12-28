@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Activity - Getting Started with Jekyll
 ---
 

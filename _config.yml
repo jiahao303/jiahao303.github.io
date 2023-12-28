@@ -110,9 +110,6 @@ author:
   location         : "San Francisco Bay Area"
   email            : "jiahao303@gmail.com"
   links:
-    - label: "jiahao303@gmail.com"
-      icon: "fab fa-fw fa-envelope"
-      url: "mailto:jiahao303@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/jiahao303"
