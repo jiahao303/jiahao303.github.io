@@ -14,7 +14,7 @@ Education
     **GPA:** *3.88*
     
     **Relevant Coursework:** 
-* Software Engineering
+    * Software Engineering
 * Competitive Strategy
 * Corporate Finance
 * Machine Learning
