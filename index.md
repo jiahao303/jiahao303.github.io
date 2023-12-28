@@ -1,6 +1,6 @@
 ---
 masthead_title : "Jiahao Huang"
-title: "Welcome to my page!"
+title: "👋 Welcome to my page!"
 layout: splash
 permalink: /
 hidden: true
