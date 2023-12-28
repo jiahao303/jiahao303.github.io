@@ -106,9 +106,14 @@ analytics:
 author:
   name             : "Welcome to my page!"
   avatar           : /assets/images/bio-photo.jpg"
-  bio              : "I'm Jiahao, and I'm currently a Product Manager on Microsoft Teams. 
-                      I graduated from UCLA in 2022 with a Mathematics/Computer Science and 
-                      Business Economics double major and a minor in Statistics. I've worke "
+  bio              : "I'm Jiahao, and I'm currently a Product Manager on 
+                      Microsoft Teams. I graduated from UCLA in 2022 with a
+                      Mathematics/Computer Science and Business Economics 
+                      double major and a minor in Statistics. <br>
+                      I've worked across the insurance, fintech, and 
+                      technology industries and subsequently developed a 
+                      passion for using data to solve the most pressing
+                      problems facing businesses today."
   location         : "San Francisco Bay Area"
   email            : "jiahao303@gmail.com"
   links:
