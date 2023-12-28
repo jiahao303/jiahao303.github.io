@@ -3,6 +3,7 @@ title: "Welcome to my page!"
 layout: splash
 permalink: /
 hidden: true
+masthead_title : "Jiahao Huang"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home-page-feature.jpg
