@@ -11,7 +11,8 @@ Education
 2018-2022 
 :   **B.S., Mathematics and Computer Science; B.A., Business Economics; Minor in Statistics**; University of California, Los Angeles (Los Angeles, CA)
 
-    *GPA: 3.88*
+    **GPA:** *3.88*
+    
 Experience
 ----------
 
