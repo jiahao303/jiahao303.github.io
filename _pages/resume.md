@@ -11,8 +11,8 @@ Education
 2018-2022 
 :   **B.S., Mathematics and Computer Science; B.A., Business Economics; Minor in Statistics**; University of California, Los Angeles 
 
-**GPA:** *3.88*
-**Relevant Coursework:** 
+    **GPA:** *3.88*
+    **Relevant Coursework:** 
 * Software Engineering
 * Competitive Strategy
 * Corporate Finance
