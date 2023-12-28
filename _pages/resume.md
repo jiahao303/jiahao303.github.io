@@ -49,7 +49,7 @@ Experience
 
 **Research Assistant Lead, Harvard Business School**
 
-* Scraped and trained a dataset of 250,000+ images using Yelp API for an OpenCV model to classify manicures in review photos with 95% accuracy under Professor Hyunjin Kim; credited in Management Science article cited by 12
+* Scraped and trained a dataset of 250,000+ images using Yelp API for an OpenCV model to classify manicures in review photos with 95% accuracy under Professor Hyunjin Kim; credited in Management Science [article](https://papers.kimhyunjin.com/Kim_CompetitorInfo.pdf) cited by 12
 
 * Led research for team of 10+ and conducted 100+ user interviews to gather data regarding firms and their knowledge of competitor pricing’s effect on decisions; created regression model confirming hypothesis (p=0.023)
 
@@ -58,7 +58,7 @@ Leadership Experience
 
 **Project Manager, UConsulting at UCLA**
 
-* Led team of five analysts in developing go-to-market strategy for client with $1MM in revenues by conducting user research and creating two-year financial projection; analyzed 5 competitors’ strategies to ideate business model
+* Led team of five analysts in developing go-to-market strategy for [client](https://www.pickupmusic.com/home-v4-2) with $1MM in revenues by conducting user research and creating two-year financial projection; analyzed 5 competitors’ strategies to ideate business model
 
 * Conducted data science education efforts for club with 40 members in Excel, Tableau, and R programming
 
@@ -68,7 +68,7 @@ Leadership Experience
 
 * Created mentor scoring algorithm to expedite mentor-mentee matching process by one hour for local non-profit client to increase volunteer lifetime value by evaluating demographic features and client matching process
 
-* Led four students in creating neural network for healthcare underwriting startup with $6MM in revenues
+* Led four students in creating neural network for healthcare underwriting [startup](https://fedo.ai/) with $6MM in revenues
 
 * Onboarded 6 clients in one year with average revenues of $3MM to conduct client data science projects
 
