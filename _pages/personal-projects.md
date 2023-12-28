@@ -1,6 +1,6 @@
 ---
 title: "Personal Projects"
 permalink: /personal-projects/
-layout: posts
+layout: single
 author_profile: true
 ---
