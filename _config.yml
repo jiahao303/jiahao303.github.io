@@ -25,7 +25,7 @@ url                      : "https://jiahao303.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jiahao303/jiahao303.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/jh-logo.jpg"
+logo                     : # "/assets/images/jh-logo.jpg"
 masthead_title           : "Jiahao Huang"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
