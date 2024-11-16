@@ -1,6 +1,11 @@
 ---
 title: "Personal Projects"
+layout: collection
 permalink: /personal-projects/
-layout: single
+collection: portfolio
+entries_layout: grid
 author_profile: true
 ---
+
+Sample
+
