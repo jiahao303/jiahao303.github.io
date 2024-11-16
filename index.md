@@ -6,13 +6,13 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/home-page-feature.jpg
+  overlay_image: /assets/images/san-francisco-at-night.png
   overlay_filter: 0.5
   actions:
     - label: "Email me at jiahao303@gmail.com"
       url: "mailto:jiahao303@gmail.com"
 excerpt: >
-  I'm a product manager at Microsoft and UCLA alumnus hailing from the Bay Area town of Alameda, CA. Feel free to check out my personal projects, work experience, or learn more about me!
+  I'm a product manager and UCLA alumnus hailing from the Bay Area town of Alameda, CA. Feel free to check out my personal projects, work experience, or learn more about me!
 intro: 
   - excerpt: "Here are some of my favorite personal projects:"
 feature_row:
