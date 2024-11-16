@@ -12,7 +12,7 @@
 
 theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,12 +20,12 @@ title                    : "Jiahao Huang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jiahao Huang"
-description              : "Jiahao's personal website"
+description              : "Jiahao Huang's personal website"
 url                      : "https://jiahao303.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jiahao303/jiahao303.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # "/assets/images/jh-logo.jpg"
+logo                     : "/assets/images/masthead.png"
 masthead_title           : "Jiahao Huang"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
