@@ -18,21 +18,21 @@ intro:
 feature_row:
   - image_path: /assets/images/taiwan.JPG
     alt: "customizable"
-    title: "Travel"
+    title: "travel..."
     excerpt: "Calligraphy Garden in Taichung, Taiwan"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/hiking.png
     alt: "fully responsive"
-    title: "Cuddle"
+    title: "explore nature..."
     excerpt: "Sequoia National Forest."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/friends.JPG
     alt: "100% free"
-    title: "And eat good food with friends :)"
+    title: "and eat good food with friends :)"
     excerpt: "AYCE Hot pot and BBQ"
     url: "/docs/license/"
     btn_class: "btn--primary"
