@@ -92,7 +92,77 @@ Leadership Experience
 **Languages**
 
 <ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
-  <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
+  <li>Java</li>
+  <li>C++</li>
+  <li>R</li>
+  <li>Python</li>
+  <li>SQL (MySQL, PostgreSQL)</li>
+  <li>HTML/CSS</li>
+  <li>Javascript</li>
+</ul>
+
+**Languages**
+
+<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
+  <li>Java</li>
+  <li>C++</li>
+  <li>R</li>
+  <li>Python</li>
+  <li>SQL (MySQL, PostgreSQL)</li>
+  <li>HTML/CSS</li>
+  <li>Javascript</li>
+</ul>
+
+**Languages**
+
+<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
+  <li>Java</li>
+  <li>C++</li>
+  <li>R</li>
+  <li>Python</li>
+  <li>SQL (MySQL, PostgreSQL)</li>
+  <li>HTML/CSS</li>
+  <li>Javascript</li>
+</ul>
+
+**Frameworks**
+
+<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
+  <li>Flask</li>
+  <li>Bootstrap</li>
+  <li>Django</li>
+  <li>React</li>
+</ul>
+
+**Developer Tools**
+
+<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
+  <li>Git</li>
+  <li>Github Actions</li>
+  <li>Visual Studio Code</li>
+  <li>Docker</li>
+  <li>AWS</li>
+  <li>GCP</li>
+  <li>Azure</li>
+  <li>Heroku</li>
+  <li>Jira</li>
+  <li>Tableau</li>
+  <li>Salesforce</li>
+</ul>
+
+**Libraries**
+
+<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
+  <li>pandas</li>
+  <li>NumPy</li>
+  <li>Matplotlib</li>
+  <li>PyQt</li>
+  <li>seaborn</li>
+  <li>Plotly</li>
+  <li>SQlite</li>
+  <li>scikit-learn</li>
+  <li>Scrapy</li>
+  <li>Tensorflow</li>
+  <li>Selenium</li>
+  <li>NLTK</li>
 </ul>
