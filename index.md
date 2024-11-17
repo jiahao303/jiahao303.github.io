@@ -26,8 +26,8 @@ feature_row:
   - image_path: /assets/images/hiking.png
     alt: "fully responsive"
     title: "explore nature..."
-    excerpt: "Sequoia National Forest."
-    url: "/docs/layouts/"
+    excerpt: "Kings Canyon National Park"
+    url: "https://en.wikipedia.org/wiki/Kings_Canyon_National_Park"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/friends.JPG
