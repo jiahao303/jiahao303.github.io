@@ -14,15 +14,12 @@ header:
 excerpt: >
   I'm a product manager and UCLA alumnus hailing from the Bay Area town of Alameda, CA. Feel free to check out my personal projects, work experience, or learn more about me!
 intro: 
-  - excerpt: "Here are some of my favorite personal projects:"
+  - excerpt: "In my spare time I love to..."
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+  - image_path: /assets/images/taiwan.jpg
+    alt: "travel"
+    title: "travel"
+    excerpt: "Travel
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive layouts"
