@@ -20,7 +20,7 @@ feature_row:
     alt: "customizable"
     title: "travel..."
     excerpt: "National Taiwan Museum of Fine Arts in Taichung, Taiwan"
-    url: "/docs/configuration/"
+    url: "https://en.wikipedia.org/wiki/National_Taiwan_Museum_of_Fine_Arts"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/hiking.png
@@ -34,7 +34,9 @@ feature_row:
     alt: "100% free"
     title: "and eat good food with friends :)"
     excerpt: "Seapot All You Can Eat KBBQ and Hot Pot in San Mateo, CA"
-    
+    url: "https://www.seapotusa.com/san-mateo-ca"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
 
 {% include feature_row id="intro" type="center" %}
