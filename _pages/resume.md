@@ -11,35 +11,52 @@ Education
 2018-2022 
 :   **B.S., Mathematics and Computer Science; B.A., Business Economics; Minor in Statistics**; University of California, Los Angeles 
 
-    **GPA:** *3.88*
+    **GPA:** *3.7*
     
     **Relevant Coursework:** 
-* Software Engineering
-* Competitive Strategy
-* Corporate Finance
-* Machine Learning
-* Probability & Statistics
+* Machine Learning/AI
+* Algorithms
+* Web Programming
+* Strategy
+* Finance
+* Data Analysis/Mining
 
     **Awards**
 * William F. Sharpe Fellow (Top 2% of Business Students)
+* College Honors
+* Dean's List
 * National Merit Scholar
 
 Experience
 ----------
 
+**Product Manager, Kiteworks**
+
+* Spearheaded the development and launch of a federated admin interface for a $403K ARR customer in the marketing communications space, ensuring that the deployment maintained high reliability for over 200 clusters
+
+* Designed data access and auditing features to enforce GDPR compliance across data systems based in the EU
+
+* Built internal telemetry feature that tags customers who are reusing licenses across deployments, helping capture ~$150K of lost revenue per quarter and reducing time spent on delinquent customers by Renewals team by 40%
+
+* Led development of form field validation feature for government customer, securing $141K ARR in new business
+
 **Product Manager, Microsoft Teams Experimentation**
 
-* Led A/B test design for Copilot AI feature, shipping feature to general audience and achieving a statistically significant 24% increase in the proportion of engaged users using redesigned UX/UI across 20,000+ users
+* Released Copilot AI feature in Teams, identifying top product features for revenue impact to gain 24% increase in the proportion of users using Copilot chatbot for meeting summarization in A/B test conducted on over 20,000 users
 
-* Collaborated with engineering team of 6 to ideate 10+ North Star metrics for Teams collaboration, improving KPI calculation efficiency by 93%; used Agile to develop Power BI dashboard roadmapping 3,000+ A/B experiments
+* Led cross-functional team of 6 and developed PRDs to build PowerBI dashboard roadmapping over 3,000 A/B tests
 
-* Synthesized user research from 2 feature teams to reduce redundancies in of experiments with bad telemetry hygiene, developing brownbag session with 30+ attendees and removing the need for hourlong weekly meeting
+* Analyzed competing experimentation methods to reduce A/B test redundancies and trained 30 staff members by conducting monthly brownbag sessions, reducing time from feature idea to experiment data from 4 to 2 weeks
+
+* Tracked monthly KPIs and automated calculation with Python and Azure DevOps, improving runtime by 93%
 
 **Product Manager, Visa**
 
-* Created internal go-to-market entry strategy for expansion of Visa QR payment solution program to countries in Latin America through analysis of 200+ Visa token authorizations and provisions, onboarding 25+ partners
+* Created go-to-market entry strategy for expansion of Visa QR payment solution program to countries in Latin America through analysis of 200+ Visa token authorizations and provisions, onboarding over 25 fintech partners
 
-* Compiled 125+ client communication records within the Visa Ready Program, a certification process for fintech companies developing payment solutions to ensure 500+ businesses in 20+ countries meet security standards
+* Conducted over 125 customer interviews with Visa Ready clients, a certification process for fintech companies developing payment solutions and created individual security standards for over 500 businesses in 20 countries
+
+* Proposed financially viable, eco-conscious credit/debit card benefit program through analysis of carbon accounting
 
 **Actuary, Pacific Life Insurance Company**
 
