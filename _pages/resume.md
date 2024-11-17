@@ -101,30 +101,6 @@ Leadership Experience
   <li>Javascript</li>
 </ul>
 
-**Languages**
-
-<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
-  <li>Java</li>
-  <li>C++</li>
-  <li>R</li>
-  <li>Python</li>
-  <li>SQL (MySQL, PostgreSQL)</li>
-  <li>HTML/CSS</li>
-  <li>Javascript</li>
-</ul>
-
-**Languages**
-
-<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
-  <li>Java</li>
-  <li>C++</li>
-  <li>R</li>
-  <li>Python</li>
-  <li>SQL (MySQL, PostgreSQL)</li>
-  <li>HTML/CSS</li>
-  <li>Javascript</li>
-</ul>
-
 **Frameworks**
 
 <ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
