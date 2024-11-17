@@ -89,30 +89,10 @@ Leadership Experience
 
 * Onboarded 6 clients in one year with average revenues of $3MM to conduct client data science projects
 
-Programming Languages
+**Languages**
 
-* Python 
-
-* R
-
-* SQL
-
-* C++
-
-* Java
-
-* JavaScript
-
-* MongoDB
-
-* React
-
-* Django
-
-* Flask
-
-* Jira
-
-* Asana
-
-* Trello
+<ul style="display: flex; list-style-type: disc; gap: 10px; padding: 0;">
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
