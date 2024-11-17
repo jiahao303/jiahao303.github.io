@@ -91,7 +91,7 @@ Leadership Experience
 
 **Languages**
 
-<ul style="display: flex; list-style-type: disc; gap: 10px; padding: 0;">
+<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
   <li>Item 1</li>
   <li>Item 2</li>
   <li>Item 3</li>
