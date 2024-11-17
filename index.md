@@ -25,7 +25,7 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/hiking.png
     alt: "fully responsive"
-    title: "Explore nature"
+    title: "Cuddle"
     excerpt: "Sequoia National Forest."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
