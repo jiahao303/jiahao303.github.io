@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/taiwan.JPG
     alt: "customizable"
     title: "travel..."
-    excerpt: "Calligraphy Garden in Taichung, Taiwan"
+    excerpt: "National Taiwan Museum of Fine Arts in Taichung, Taiwan"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -33,10 +33,8 @@ feature_row:
   - image_path: /assets/images/friends.JPG
     alt: "100% free"
     title: "and eat good food with friends :)"
-    excerpt: "AYCE Hot pot and BBQ"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    excerpt: "Seapot All You Can Eat KBBQ and Hot Pot in San Mateo, CA"
+    
 ---
 
 {% include feature_row id="intro" type="center" %}
