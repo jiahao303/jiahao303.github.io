@@ -103,12 +103,8 @@ Leadership Experience
 
 **Frameworks**
 
-<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
-  <li>Flask</li>
-  <li>Bootstrap</li>
-  <li>Django</li>
-  <li>React</li>
-</ul>
+| • Item 1 | • Item 2 | • Item 3 |
+|----------|----------|----------|
 
 **Developer Tools**
 

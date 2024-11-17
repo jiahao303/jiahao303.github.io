@@ -5,7 +5,7 @@ title: "About"
 
 <div style="margin-left: 20px; margin-right: 20px;">
 
-My name is Jiahao, and I'm currently a Product Manager on Microsoft Teams. I graduated from UCLA in 2022 with a Mathematics/Computer Science and Business Economics double major and a minor in Statistics.
+My name is Jiahao, and I'm currently a Product Manager at Kiteworks. I graduated from UCLA in 2022 with a Mathematics/Computer Science and Business Economics double major and a minor in Statistics.
                       
 I've worked across the insurance, fintech, and technology industries and subsequently developed a passion for using technology to solve the most pressing problems facing businesses today. I'm grateful that the skills I've learned professionally and in school—including AB experimentation, full-stack development, data analysis, and machine learning—have equipped me with a unique skillset that is applicable to any situation. Today, I'm happy to blend my technical and soft skills as a Product Manager.
 
