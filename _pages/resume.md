@@ -101,9 +101,15 @@ Leadership Experience
 </ul>
 
 **Frameworks**
+<ul style="display: inline; list-style-type: disc; padding: 0; margin: 0;">
+  <li style="display: inline; margin-right: 20px;">Flask</li>
+  <li style="display: inline; margin-right: 20px;">Bootstrap</li>
+  <li style="display: inline; margin-right: 20px;">Django</li>
+  <li style="display: inline; margin-right: 20px;">React</li>
+</ul>
 
 **Developer Tools**
-<ul style="display: inline; list-style-type: disc; padding: 0; margin: 0; list-style-type: disc">
+<ul style="display: inline; list-style-type: disc; padding: 0; margin: 0;">
   <li style="display: inline; margin-right: 20px;">Git</li>
   <li style="display: inline; margin-right: 20px;">Github Actions</li>
   <li style="display: inline; margin-right: 20px;">Visual Studio Code</li>
