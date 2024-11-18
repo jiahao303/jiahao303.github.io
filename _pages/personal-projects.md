@@ -8,6 +8,7 @@ gallery:
     image_path: /assets/images/hiking.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+    caption: "Hello"
   - url: https://google.com
     image_path: /assets/images/hiking.png
     alt: "placeholder image 1"
