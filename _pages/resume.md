@@ -103,7 +103,7 @@ Leadership Experience
 **Frameworks**
 
 **Developer Tools**
-<ul style="display: inline; list-style-type: disc; padding: 0; margin: 0;">
+<ul style="display: inline; list-style-type: disc; padding: 0; margin: 0; list-style-type: disc">
   <li style="display: inline; margin-right: 20px;">Git</li>
   <li style="display: inline; margin-right: 20px;">Github Actions</li>
   <li style="display: inline; margin-right: 20px;">Visual Studio Code</li>
