@@ -92,49 +92,46 @@ Leadership Experience
 **Languages**
 
 <ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
-  <li>Java</li>
-  <li>C++</li>
-  <li>R</li>
-  <li>Python</li>
-  <li>SQL (MySQL, PostgreSQL)</li>
-  <li>HTML/CSS</li>
-  <li>Javascript</li>
+  <li style="display: inline; margin-right: 20px;">Java</li>
+  <li style="display: inline; margin-right: 20px;">C++</li>
+  <li style="display: inline; margin-right: 20px;">R</li>
+  <li style="display: inline; margin-right: 20px;">Python</li>
+  <li style="display: inline; margin-right: 20px;">SQL (MySQL, PostgreSQL)</li>
+  <li style="display: inline; margin-right: 20px;">HTML/CSS</li>
+  <li style="display: inline; margin-right: 20px;">Javascript</li>
 </ul>
 
 **Frameworks**
 
-| • Java | • C++ | • R |
-|----------|----------|----------|
-
 **Developer Tools**
 
 <ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
-  <li>Git</li>
-  <li>Github Actions</li>
-  <li>Visual Studio Code</li>
-  <li>Docker</li>
-  <li>AWS</li>
-  <li>GCP</li>
-  <li>Azure</li>
-  <li>Heroku</li>
-  <li>Jira</li>
-  <li>Tableau</li>
-  <li>Salesforce</li>
+  <li style="display: inline; margin-right: 20px;">Git</li>
+  <li style="display: inline; margin-right: 20px;">Github Actions</li>
+  <li style="display: inline; margin-right: 20px;">Visual Studio Code</li>
+  <li style="display: inline; margin-right: 20px;">Docker</li>
+  <li style="display: inline; margin-right: 20px;">AWS</li>
+  <li style="display: inline; margin-right: 20px;">GCP</li>
+  <li style="display: inline; margin-right: 20px;">Azure</li>
+  <li style="display: inline; margin-right: 20px;">Heroku</li>
+  <li style="display: inline; margin-right: 20px;">Jira</li>
+  <li style="display: inline; margin-right: 20px;">Tableau</li>
+  <li style="display: inline; margin-right: 20px;">Salesforce</li>
 </ul>
 
 **Libraries**
 
 <ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
-  <li>pandas</li>
-  <li>NumPy</li>
-  <li>Matplotlib</li>
-  <li>PyQt</li>
-  <li>seaborn</li>
-  <li>Plotly</li>
-  <li>SQlite</li>
-  <li>scikit-learn</li>
-  <li>Scrapy</li>
-  <li>Tensorflow</li>
-  <li>Selenium</li>
-  <li>NLTK</li>
+  <li style="display: inline; margin-right: 20px;">pandas</li>
+  <li style="display: inline; margin-right: 20px;">NumPy</li>
+  <li style="display: inline; margin-right: 20px;">Matplotlib</li>
+  <li style="display: inline; margin-right: 20px;">PyQt</li>
+  <li style="display: inline; margin-right: 20px;">seaborn</li>
+  <li style="display: inline; margin-right: 20px;">Plotly</li>
+  <li style="display: inline; margin-right: 20px;">SQlite</li>
+  <li style="display: inline; margin-right: 20px;">scikit-learn</li>
+  <li style="display: inline; margin-right: 20px;">Scrapy</li>
+  <li style="display: inline; margin-right: 20px;">Tensorflow</li>
+  <li style="display: inline; margin-right: 20px;">Selenium</li>
+  <li style="display: inline; margin-right: 20px;">NLTK</li>
 </ul>
