@@ -90,7 +90,6 @@ Leadership Experience
 * Onboarded 6 clients in one year with average revenues of $3MM to conduct client data science projects
 
 **Languages**
-
 <ul style="display: inline; list-style-type: disc; padding: 0; margin: 0;">
   <li style="display: inline; margin-right: 20px;">Java</li>
   <li style="display: inline; margin-right: 20px;">C++</li>
@@ -104,7 +103,6 @@ Leadership Experience
 **Frameworks**
 
 **Developer Tools**
-
 <ul style="display: inline; list-style-type: disc; padding: 0; margin: 0;">
   <li style="display: inline; margin-right: 20px;">Git</li>
   <li style="display: inline; margin-right: 20px;">Github Actions</li>
@@ -120,7 +118,6 @@ Leadership Experience
 </ul>
 
 **Libraries**
-
 <ul style="display: inline; list-style-type: disc; padding: 0; margin: 0;">
   <li style="display: inline; margin-right: 20px;">pandas</li>
   <li style="display: inline; margin-right: 20px;">NumPy</li>
