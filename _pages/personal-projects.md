@@ -1,11 +1,14 @@
 ---
 title: "Personal Projects"
 permalink: /personal-projects/
-entries_layout: grid
+layout: single
 author_profile: true
 gallery:
   - url: https://google.com
-    image_path: /assets/images/taiwan.jpg
+    image_path: /assets/images/hiking.png
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
+
+{% include gallery %}
+
