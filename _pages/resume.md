@@ -91,7 +91,7 @@ Leadership Experience
 
 **Languages**
 
-<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
+<ul style="display: inline; list-style-type: disc; padding: 0; margin: 0;">
   <li style="display: inline; margin-right: 20px;">Java</li>
   <li style="display: inline; margin-right: 20px;">C++</li>
   <li style="display: inline; margin-right: 20px;">R</li>
@@ -105,7 +105,7 @@ Leadership Experience
 
 **Developer Tools**
 
-<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
+<ul style="display: inline; list-style-type: disc; padding: 0; margin: 0;">
   <li style="display: inline; margin-right: 20px;">Git</li>
   <li style="display: inline; margin-right: 20px;">Github Actions</li>
   <li style="display: inline; margin-right: 20px;">Visual Studio Code</li>
@@ -121,7 +121,7 @@ Leadership Experience
 
 **Libraries**
 
-<ul style="display: flex; gap: 20px; list-style-position: inside; padding: 0; margin: 0;">
+<ul style="display: inline; list-style-type: disc; padding: 0; margin: 0;">
   <li style="display: inline; margin-right: 20px;">pandas</li>
   <li style="display: inline; margin-right: 20px;">NumPy</li>
   <li style="display: inline; margin-right: 20px;">Matplotlib</li>
