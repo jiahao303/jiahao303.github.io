@@ -19,7 +19,7 @@ Education
 * Web Programming
 * Strategy
 * Finance
-* Data Analysis/Mining
+* Data Analysis/Experimentation/Mining
 
     **Awards**
 * William F. Sharpe Fellow (Top 2% of Business Students)
