@@ -91,11 +91,11 @@ Leadership Experience
 
 **Languages**
 
-- Item 1 • Item 2 • Item 3
+Java • C++ • R • Python • SQL (MySQL, PostgreSQL) • HTML/CSS • Javascript
 
-- Item 1 • Item 2 • Item 3
+**Frameworks**
 
-- Item 1 • Item 2 • Item 3
+Flask • Bootstrap • 
 
 
 
