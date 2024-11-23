@@ -7,11 +7,11 @@ author_profile: true
 
 <div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; max-width: 100%, margin: auto; text-align: left;">
     <figure>
-        <img src="/assets/images/taiwan.JPG" alt="Project 1" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="/assets/images/wiki.png" alt="Wiki" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
         <figcaption>
-        <a href="https://google.com">Project 1</a>
+        <a href="https://github.com/jiahao303/wiki">Wiki</a>
         </figcaption>
-        <p>A brief description of Project 1 goes here.</p>
+        <p>A Wikipedia-like online encyclopedia built with Django.</p>
     </figure>
     <figure>
         <img src="/assets/images/taiwan.JPG" alt="Project 1" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
