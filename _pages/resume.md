@@ -91,7 +91,7 @@ Leadership Experience
 
 **Languages**
 
-Java • C++ • R • Python • SQL (MySQL, PostgreSQL) • HTML/CSS • Javascript
+Java • C++ • R • Python • SQL (MySQL, PostgreSQL) • HTML/CSS Javascript
 
 **Frameworks**
 
@@ -99,8 +99,8 @@ Flask • Bootstrap • Django • React
 
 **Developer Tools**
 
-Git • Github Actions • Visual Studio Code • Docker • AWS • GCP • Azure • Heroku • Jira • Tableau • Figma
+Git • Github Actions • Visual Studio Code • Docker • AWS • GCP Azure • Heroku • Jira • Tableau • Figma
 
 **Libraries**
 
-pandas • NumPy • Matplotlib • PyQt • seaborn • Plotly • SQlite • scikit-learn • Scrapy • Tensorflow • Selenium • NTLK
+pandas • NumPy • Matplotlib • PyQt • seaborn • Plotly • SQlite scikit-learn • Scrapy • Tensorflow • Selenium • NTLK
