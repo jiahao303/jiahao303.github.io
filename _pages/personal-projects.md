@@ -10,7 +10,7 @@ author_profile: true
     <figure>
         <img src="/assets/images/search.png" alt="Search" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
         <figcaption>
-        <a href="https://github.com/jiahao303/search">Wiki</a>
+        <a href="https://github.com/jiahao303/search">Search</a>
         </figcaption>
         <p>A front-end for Google Search, Google Image Search, and Google Advanced Search built with Bootstrap.</p>
     </figure>
