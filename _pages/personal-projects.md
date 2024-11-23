@@ -38,6 +38,55 @@ author_profile: true
         </figcaption>
         <p>A Twitter-like social network website for making posts and following users built with Django and React.</p>
     </figure>
+    <!-- Project 5 -->
+    <figure>
+        <img src="/assets/images/tictactoe.png" alt="Tic-Tac-Toe" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <figcaption>
+        <a href="https://github.com/jiahao303/tictactoe">Tic-Tac-Toe</a>
+        </figcaption>
+        <p>An AI that plays Tic-Tac-Toe optimally using Minimax.</p>
+    </figure>
+    <!-- Project 6 -->
+    <figure>
+        <img src="/assets/images/minesweeper.png" alt="Minesweeper" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <figcaption>
+        <a href="https://github.com/jiahao303/minesweeper">Minesweeper</a>
+        </figcaption>
+        <p>An AI that plays Minesweeper.</p>
+    </figure>
+    <!-- Project 7 -->
+    <figure>
+        <img src="/assets/images/network.png" alt="Network" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <figcaption>
+        <a href="https://github.com/jiahao303/network">Network</a>
+        </figcaption>
+        <p>A Twitter-like social network website for making posts and following users built with Django and React.</p>
+    </figure>
+    <!-- Project 8 -->
+    <figure>
+        <img src="/assets/images/network.png" alt="Network" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <figcaption>
+        <a href="https://github.com/jiahao303/network">Network</a>
+        </figcaption>
+        <p>A Twitter-like social network website for making posts and following users built with Django and React.</p>
+    </figure>
+    <!-- Project 9 -->
+    <figure>
+        <img src="/assets/images/network.png" alt="Network" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <figcaption>
+        <a href="https://github.com/jiahao303/network">Network</a>
+        </figcaption>
+        <p>A Twitter-like social network website for making posts and following users built with Django and React.</p>
+    </figure>
+    <!-- Project 10 -->
+    <figure>
+        <img src="/assets/images/network.png" alt="Network" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <figcaption>
+        <a href="https://github.com/jiahao303/network">Network</a>
+        </figcaption>
+        <p>A Twitter-like social network website for making posts and following users built with Django and React.</p>
+    </figure>
+    
 
 
 
