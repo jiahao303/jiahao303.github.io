@@ -98,7 +98,7 @@ author_profile: true
     <figure>
         <img src="/assets/images/bert.png" alt="Attention" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
         <figcaption>
-        <a href="https://github.com/jiahao303/attention">attention</a>
+        <a href="https://github.com/jiahao303/attention">Attention</a>
         </figcaption>
         <p>An AI to predict a masked word in a text sequence using tranformers and attention.</p>
     </figure>
