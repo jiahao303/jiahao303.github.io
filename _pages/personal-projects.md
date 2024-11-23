@@ -5,7 +5,7 @@ layout: single
 author_profile: true    
 ---
 
-<div class="gallery" style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 16px;">
+<div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;">
     <figure style="text-align: center;">
         <img src="/assets/images/taiwan.JPG" alt="Project 1" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
         <figcaption>
