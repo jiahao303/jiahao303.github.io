@@ -64,27 +64,27 @@ author_profile: true
     </figure>
     <!-- Project 8 -->
     <figure>
-        <img src="/assets/images/network.png" alt="Heredity" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="/assets/images/gene_network.png" alt="Heredity" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
         <figcaption>
         <a href="https://github.com/jiahao303/heredity">Heredity</a>
         </figcaption>
-        <p>A Twitter-like social network website for making posts and following users built with Django and React.</p>
+        <p>An AI to assess the likelihood that a person will have a particular genetic trait.</p>
     </figure>
     <!-- Project 9 -->
     <figure>
-        <img src="/assets/images/network.png" alt="Network" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="/assets/images/crossword.png" alt="Crossword" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
         <figcaption>
-        <a href="https://github.com/jiahao303/network">Network</a>
+        <a href="https://github.com/jiahao303/crossword">Crossword</a>
         </figcaption>
-        <p>A Twitter-like social network website for making posts and following users built with Django and React.</p>
+        <p>An AI to generate crossword puzzles.</p>
     </figure>
     <!-- Project 10 -->
     <figure>
-        <img src="/assets/images/network.png" alt="Network" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="/assets/images/nim.png" alt="Nim" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
         <figcaption>
-        <a href="https://github.com/jiahao303/network">Network</a>
+        <a href="https://github.com/jiahao303/nim">Nim</a>
         </figcaption>
-        <p>A Twitter-like social network website for making posts and following users built with Django and React.</p>
+        <p>An AI that teaches itself to play Nim through reinforcement learning.</p>
     </figure>
     <!-- Project 11 -->
     <figure>
