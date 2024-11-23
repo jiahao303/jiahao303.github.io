@@ -95,58 +95,12 @@ Java • C++ • R • Python • SQL (MySQL, PostgreSQL) • HTML/CSS • Javas
 
 **Frameworks**
 
-Flask • Bootstrap • 
-
-
-
-
-
-
-<ul style="display: inline; list-style-type: disc; padding: 0; margin-top: 0;">
-  <li style="display: inline; margin-right: 20px;">Java</li>
-  <li style="display: inline; margin-right: 20px;">C++</li>
-  <li style="display: inline; margin-right: 20px;">R</li>
-  <li style="display: inline; margin-right: 20px;">Python</li>
-  <li style="display: inline; margin-right: 20px;">SQL (MySQL, PostgreSQL)</li>
-  <li style="display: inline; margin-right: 20px;">HTML/CSS</li>
-  <li style="display: inline; margin-right: 20px;">Javascript</li>
-</ul>
-
-**Frameworks**
-<ul style="display: inline; list-style-type: disc; padding: 0; margin-top: 0;">
-  <li style="display: inline; margin-right: 20px;">Flask</li>
-  <li style="display: inline; margin-right: 20px;">Bootstrap</li>
-  <li style="display: inline; margin-right: 20px;">Django</li>
-  <li style="display: inline; margin-right: 20px;">React</li>
-</ul>
+Flask • Bootstrap • Django • React
 
 **Developer Tools**
-<ul style="display: inline; list-style-type: disc; padding: 0; margin-top: 0;">
-  <li style="display: inline; margin-right: 20px;">Git</li>
-  <li style="display: inline; margin-right: 20px;">Github Actions</li>
-  <li style="display: inline; margin-right: 20px;">Visual Studio Code</li>
-  <li style="display: inline; margin-right: 20px;">Docker</li>
-  <li style="display: inline; margin-right: 20px;">AWS</li>
-  <li style="display: inline; margin-right: 20px;">GCP</li>
-  <li style="display: inline; margin-right: 20px;">Azure</li>
-  <li style="display: inline; margin-right: 20px;">Heroku</li>
-  <li style="display: inline; margin-right: 20px;">Jira</li>
-  <li style="display: inline; margin-right: 20px;">Tableau</li>
-  <li style="display: inline; margin-right: 20px;">Salesforce</li>
-</ul>
+
+Git • Github Actions • Visual Studio Code • Docker • AWS • GCP • Azure • Heroku • Jira • Tableau • Figma
 
 **Libraries**
-<ul style="display: inline; list-style-type: disc; padding: 0; margin-top: 0;">
-  <li style="display: inline; margin-right: 20px;">pandas</li>
-  <li style="display: inline; margin-right: 20px;">NumPy</li>
-  <li style="display: inline; margin-right: 20px;">Matplotlib</li>
-  <li style="display: inline; margin-right: 20px;">PyQt</li>
-  <li style="display: inline; margin-right: 20px;">seaborn</li>
-  <li style="display: inline; margin-right: 20px;">Plotly</li>
-  <li style="display: inline; margin-right: 20px;">SQlite</li>
-  <li style="display: inline; margin-right: 20px;">scikit-learn</li>
-  <li style="display: inline; margin-right: 20px;">Scrapy</li>
-  <li style="display: inline; margin-right: 20px;">Tensorflow</li>
-  <li style="display: inline; margin-right: 20px;">Selenium</li>
-  <li style="display: inline; margin-right: 20px;">NLTK</li>
-</ul>
+
+pandas • NumPy • Matplotlib • PyQt • seaborn • Plotly • SQlite • scikit-learn • Scrapy • Tensorflow • Selenium • NTLK
