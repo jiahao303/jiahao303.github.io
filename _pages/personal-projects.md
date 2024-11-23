@@ -14,18 +14,18 @@ author_profile: true
         <p>A Wikipedia-like online encyclopedia built with Django.</p>
     </figure>
     <figure>
-        <img src="/assets/images/commerce.png" alt="Commerce" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="/assets/images/listings.png" alt="Commerce" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
         <figcaption>
         <a href="https://github.com/jiahao303/commerce">Commerce</a>
         </figcaption>
         <p>An eBay-like e-commerce auction site built with Django.</p>
     </figure>
     <figure>
-        <img src="/assets/images/taiwan.JPG" alt="Project 1" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
-        <figcaption style="margin-top: 8px;">
-        <a href="https://google.com" target="_blank" style="text-decoration: none; color: blue; font-weight: bold;">Project 1</a>
+        <img src="/assets/images/inbox.png" alt="Mail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <figcaption>
+        <a href="https://github.com/jiahao303/mail">Mail</a>
         </figcaption>
-        <p style="font-size: 14px; color: #555;">A brief description of Project 1 goes here.</p>
+        <p>A front-end for an email client that makes API calls to send and receive emails built with Javascript.</p>
     </figure>
     <figure>
         <img src="/assets/images/taiwan.JPG" alt="Project 1" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
