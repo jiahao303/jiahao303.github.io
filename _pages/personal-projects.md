@@ -18,7 +18,7 @@ author_profile: true
         <figcaption>
         <a href="https://github.com/jiahao303/commerce">Commerce</a>
         </figcaption>
-        <p>An eBay-like e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings, and add listings to a “watchlist” built with Django</p>
+        <p>An eBay-like e-commerce auction site built with Django.</p>
     </figure>
     <figure>
         <img src="/assets/images/taiwan.JPG" alt="Project 1" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
