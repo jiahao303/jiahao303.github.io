@@ -90,6 +90,18 @@ Leadership Experience
 * Onboarded 6 clients in one year with average revenues of $3MM to conduct client data science projects
 
 **Languages**
+
+- Item 1 • Item 2 • Item 3
+
+- Item 1 • Item 2 • Item 3
+
+- Item 1 • Item 2 • Item 3
+
+
+
+
+
+
 <ul style="display: inline; list-style-type: disc; padding: 0; margin-top: 0;">
   <li style="display: inline; margin-right: 20px;">Java</li>
   <li style="display: inline; margin-right: 20px;">C++</li>
