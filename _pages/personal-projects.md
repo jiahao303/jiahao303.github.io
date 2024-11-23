@@ -60,7 +60,7 @@ author_profile: true
         <figcaption>
         <a href="https://github.com/jiahao303/minesweeper">Minesweeper</a>
         </figcaption>
-        <p>An AI that plays Minesweeper.</p>
+        <p>An AI that plays Minesweeper using knowledge.</p>
     </figure>
     <!-- Project 8 -->
     <figure>
@@ -68,7 +68,7 @@ author_profile: true
         <figcaption>
         <a href="https://github.com/jiahao303/heredity">Heredity</a>
         </figcaption>
-        <p>An AI to assess the likelihood that a person will have a particular genetic trait.</p>
+        <p>An AI to assess the likelihood that a person will have a particular genetic trait using a Bayesian Network.</p>
     </figure>
     <!-- Project 9 -->
     <figure>
@@ -76,7 +76,7 @@ author_profile: true
         <figcaption>
         <a href="https://github.com/jiahao303/crossword">Crossword</a>
         </figcaption>
-        <p>An AI to generate crossword puzzles.</p>
+        <p>An AI to generate crossword puzzles by optmizing a constraint satisfaction problem.</p>
     </figure>
     <!-- Project 10 -->
     <figure>
@@ -88,19 +88,19 @@ author_profile: true
     </figure>
     <!-- Project 11 -->
     <figure>
-        <img src="/assets/images/network.png" alt="Network" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="/assets/images/gtsrb.png" alt="Traffic" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
         <figcaption>
-        <a href="https://github.com/jiahao303/network">Network</a>
+        <a href="https://github.com/jiahao303/traffic">Traffic</a>
         </figcaption>
-        <p>A Twitter-like social network website for making posts and following users built with Django and React.</p>
+        <p>An AI to identify which traffic sign appears in a photograph using a neural network.</p>
     </figure>
     <!-- Project 12 -->
     <figure>
-        <img src="/assets/images/network.png" alt="Network" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
+        <img src="/assets/images/bert.png" alt="Attention" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 8px;">
         <figcaption>
-        <a href="https://github.com/jiahao303/network">Network</a>
+        <a href="https://github.com/jiahao303/attention">attention</a>
         </figcaption>
-        <p>A Twitter-like social network website for making posts and following users built with Django and React.</p>
+        <p>An AI to predict a masked word in a text sequence using tranformers and attention.</p>
     </figure>
     
 
