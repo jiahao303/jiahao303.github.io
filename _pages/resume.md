@@ -36,7 +36,7 @@ Experience
 
 * Designed data access and auditing features to enforce GDPR compliance across data systems based in the EU
 
-* Built internal telemetry feature that tags customers who are reusing licenses across deployments, helping capture $210K+ of lost revenue per quarter and reducing time spent on delinquent customers by 40%
+* Built internal telemetry feature that tags customers who are reusing licenses across deployments, helping capture $210K+ of lost revenue per year and reducing time spent on delinquent customers by 40%
 
 * Led development of form field validation feature for government customer, securing $141K ARR in new business
 
