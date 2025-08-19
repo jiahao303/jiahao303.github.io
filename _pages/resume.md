@@ -11,15 +11,16 @@ Education
 2018-2022 
 :   **B.S., Mathematics and Computer Science; B.A., Business Economics; Minor in Statistics**; University of California, Los Angeles 
 
-    **GPA:** *3.7*
+    **GPA:** *3.8*
     
     **Relevant Coursework:** 
 * Machine Learning/AI
 * Algorithms
 * Web Programming
-* Strategy
+* Databases
 * Finance
-* Data Analysis/Experimentation/Mining
+* Strategy
+* Data Analysis/Mining
 
     **Awards**
 * William F. Sharpe Fellow (Top 2% of Business Students)
@@ -33,6 +34,8 @@ Experience
 **Product Manager, Kiteworks**
 
 * Spearheaded the development and launch of a federated admin interface for a $403K ARR customer in the marketing communications space, ensuring that the deployment maintained high reliability for over 200 clusters
+
+* Oversaw model evaluation by defining success metrics (containment and deflection rate) for an AI chatbot in admin interface that reduced support tickets by 22%, integrating product analytics to track resolution and retention rate
 
 * Designed data access and auditing features to enforce GDPR compliance across data systems based in the EU
 
