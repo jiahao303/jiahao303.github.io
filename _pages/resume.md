@@ -33,15 +33,16 @@ Experience
 
 **Product Manager, Kiteworks**
 
-* Spearheaded the development and launch of a federated admin interface for a $403K ARR customer in the marketing communications space, ensuring that the deployment maintained high reliability for over 200 clusters
+* Spearheaded the launch of a federated admin interface with SCIM integration for the largest advertising agency in the world at $403K ARR, ensuring child tenants retain control over their organizations for 200+ global clusters
 
-* Oversaw model evaluation by defining success metrics (containment and deflection rate) for an AI chatbot in admin interface that reduced support tickets by 22%, integrating product analytics to track resolution and retention rate
+* Extended Location Mapping to enforce GDPR data residency regulations, ensuring file uploads route to LDAP-mapped storage location with complete audit trails to enable 90+ enterprise customers to maintain compliance
 
-* Designed data access and auditing features to enforce GDPR compliance across data systems based in the EU
+* Launched first PLG feature onboarding developers to Kiteworks API, enabling trial-to-paid conversion without Sales 
 
-* Built internal telemetry feature that tags customers who are reusing licenses across deployments, helping capture $210K+ of lost revenue per year and reducing time spent on delinquent customers by 40%
+* Worked with Customer Success to enable integration of user metadata from IdPs via LDAP/SAML for public sector customers with $801K ARR, streamlining identity management for RBAC and reducing onboarding time by 30%
 
-* Led development of form field validation feature for government customer, securing $141K ARR in new business
+* Built internal telemetry system to detect cross-deployment license misuse, helping capture $210K+ of lost ARR, reducing time spent on delinquent customers by 40%, and enabling Sales to upsell to flagged accounts
+
 
 **Product Manager, Microsoft Teams Experimentation**
 
